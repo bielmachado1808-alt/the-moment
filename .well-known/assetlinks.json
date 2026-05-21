@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.themoment.app",
+    "sha256_cert_fingerprints": ["15:2A:21:B2:CD:D1:BD:BF:26:D1:A6:69:3D:31:52:41:EF:E7:38:15:05:F6:82:70:7E:54:C0:1C:F7:6F:C4:84"]
+  }
+}]
